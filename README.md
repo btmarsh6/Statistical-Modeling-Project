@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Statistical Modelling with Python
 
 ## Project/Goals
 In this project, I examine the locations and capacities of the Mobi bikeshare system in Vancouver, BC. I compare this data to data from Yelp and Foursquare, looking for points of interest (POIs) around each bike station. My goal is to determine if there is a relation between the number and types of POIs around each station and the bike capacity of that station. I attempt to build a statistical model of the relationship.
